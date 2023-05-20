@@ -48,7 +48,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Stavros Kalaouzis and I'm a Diplomate Industrial Engineer and I hold a Master’s degree in Information Technology. As well as managing production systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I'm a Diplomate Industrial Engineer and I hold a Master’s degree in Information Technology. As well as managing production systems I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Software Engineering</mark> and <mark>Production Management</mark>
 
@@ -111,9 +111,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and engineering some of my other interests and hobbies are:
-      - Gym and Sports
+      - Sports
       - Contribute to Open Source Projects
-      - Crypto and Investing
+      - Crypto Trading
       
 # Footer
 footer_show_references: true
