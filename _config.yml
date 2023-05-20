@@ -9,7 +9,7 @@ version: 2
 name: Stavros Kalaouzis
 title: Industrial Engineer
 email: stavros.kalaouzis@yahoo.gr
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: never
