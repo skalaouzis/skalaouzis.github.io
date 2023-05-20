@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Stavros Kalaouzis
-title: M.Sc | Dipl.Eng Project Manager
+title: Technical Project Manager
 email: stavros.kalaouzis@yahoo.gr
 # website: www.github.com/sproogen/resume-theme
 
@@ -48,7 +48,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Stavros and I'm a industrial automation engineer. As well as administrating production systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Stavros Kalaouzis and I'm a Diplomate Industrial Engineer and I hold a Master’s degree in Information Technology. As well as managing production systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Software Engineering</mark> and <mark>Production Management</mark>
 
@@ -76,11 +76,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Technical Chamber of Greece
+        link: https://web.tee.gr/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Project Engineer
+        caption: November 2018 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
