@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Stavros Kalaouzis
-title: Industrial Engineer
+title: M.Sc. Industrial Engineer
 email: stavros.kalaouzis@yahoo.gr
 # website: www.github.com/sproogen/resume-theme
 
@@ -89,7 +89,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Democritus University of Thrace
         caption: 2010 - 2015
         sub_title: Dipl. Production Engineering and Management
