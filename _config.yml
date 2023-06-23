@@ -94,10 +94,12 @@ content:
         title: Aristotle University of Thessaloniki
         caption: 2016 - 2019
         sub_title: M.Sc. Information and Communication Technologies
+        quote: >
+           Reports and Consulting of Local Authorities and Enterprises for the use of European funds.
         description: | # this will include new lines to allow paragraphs
           - Specialty Area: Knowledge, Data and Software Technologies
           - Thesis: Development of Predictive Analytics Application for Retail Optimization.
-          - Grade:8.28/10.00
+          - Grade: 8.28/10.00
       
       - layout: left
         title: Democritus University of Thrace
@@ -105,8 +107,8 @@ content:
         sub_title: Dipl. Production Engineering and Management
         description: | # this will include new lines to allow paragraphs
           - Specialty Area: Manufacturing Engineering
-          - Thesis: Genetic Algorithm for Solving Software Project Scheduling Problems.
-          - Grade:8.27/10.00
+          - Thesis: Development of Genetic Algorithm for Solving Software Project Scheduling Problems.
+          - Grade: 8.27/10.00
 
   - title: A Little More About Me
     layout: text
