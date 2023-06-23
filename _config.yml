@@ -49,7 +49,7 @@ linkedin_username: jameswgrant
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 Experienced in overseeing software and network projects, detailed oriented, time-driven to meet deadlines, able to multi-task workload, a team player, forethoughtful in planning to minimize risk and able to work overtime to keep a project on its timeline.
-  I am most skilled in: <mark>Software Engineering</mark> and <mark>Production Management</mark>
+  I am most skilled in: <mark>Software Engineering</mark> and <mark>Project Management</mark>
 
 content:
   - title: Projects # Title for the section
