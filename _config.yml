@@ -104,8 +104,9 @@ content:
         caption: 2010 - 2015
         sub_title: Dipl. Production Engineering and Management
         description: | # this will include new lines to allow paragraphs
-          Thesis: Genetic Algorithm for Solving Software Project Scheduling Problems.
-          Grade:8.27/10.00
+          - Specialty Area: Manufacturing Engineering
+          - Thesis: Genetic Algorithm for Solving Software Project Scheduling Problems.
+          - Grade:8.27/10.00
 
   - title: A Little More About Me
     layout: text
