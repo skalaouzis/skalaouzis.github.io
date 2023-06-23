@@ -85,8 +85,7 @@ content:
            Reports and Consulting of Local Authorities and Enterprises for the use of European funds.
 
         description: | # this will include new lines to allow paragraphs
-            - EU Funding
-            - Program Management
+            EU project implementation and proposal submission, including EU tenders, grants, and programs such as Erasmus+, Horizon 2020, LIFE, etc.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
