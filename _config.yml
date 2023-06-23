@@ -95,7 +95,7 @@ content:
         caption: 2016 - 2019
         sub_title: M.Sc. Information and Communication Technologies
         quote: >
-           Reports and Consulting of Local Authorities and Enterprises for the use of European funds.
+           Exchange Scholarship 2016 - 2017
         description: | # this will include new lines to allow paragraphs
           - Specialty Area: Knowledge, Data and Software Technologies
           - Thesis: Development of Predictive Analytics Application for Retail Optimization.
@@ -105,6 +105,8 @@ content:
         title: Democritus University of Thrace
         caption: 2010 - 2015
         sub_title: Dipl. Production Engineering and Management
+        quote: >
+           summa cum laude 2015, (Class Rank: in the top 2% of graduating class)
         description: | # this will include new lines to allow paragraphs
           - Specialty Area: Manufacturing Engineering
           - Thesis: Development of Genetic Algorithm for Solving Software Project Scheduling Problems.
