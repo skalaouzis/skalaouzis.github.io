@@ -104,9 +104,8 @@ content:
         caption: 2010 - 2015
         sub_title: Dipl. Production Engineering and Management
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Thesis: Genetic Algorithm for Solving Software Project Scheduling Problems.
+          Grade:8.27/10.00
 
   - title: A Little More About Me
     layout: text
