@@ -53,22 +53,22 @@ about_content: | # this will include new lines to allow paragraphs
  I am most skilled in: <mark>Project Management</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Opinion Mining Using Text Data
-        link: github.com/stavrosk7/OPINION-MINING-USING-TEXT-DATA
-        # link_text: Project Website
-        additional_links:
-          - title:  stavrosk7/OPINION-MINING-USING-TEXT-DATA
-            icon: fab fa-github
-            url: github.com/stavrosk7/OPINION-MINING-USING-TEXT-DATA
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>Scala</mark>
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Opinion Mining Using Text Data
+  #       link: github.com/stavrosk7/OPINION-MINING-USING-TEXT-DATA
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  stavrosk7/OPINION-MINING-USING-TEXT-DATA
+  #           icon: fab fa-github
+  #           url: github.com/stavrosk7/OPINION-MINING-USING-TEXT-DATA
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>Scala</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
